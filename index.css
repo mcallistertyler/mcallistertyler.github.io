@@ -10,3 +10,19 @@ body {
 h1,h2,h3 {
     line-height:1.2;
 }
+
+h3 {
+    padding-left: 10px;
+}
+
+figure {
+	margin: 0;
+}
+
+.audio-comparisons {
+    display: flex;
+}
+
+.audio-list {
+    margin-right: 30px;
+}
